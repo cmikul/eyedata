@@ -97,7 +97,7 @@ const cameraSetup = {
          <div style='width: 600px;'>
          <div style='float: left;'><img src='img/laptop-webcam.jpeg'></img>
          <div style='float: right;'><img src='img/external-webcam-atop-computer-1024x691.jpg'></img>
-         ',
+         `,
       choices: ["Integrated Webcam", "External Webcam"], 
     },
     {
